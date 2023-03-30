@@ -12,7 +12,7 @@ organizers:
     - name: The Gaia Unlimited Team
     - url: https://gaia-unlimited.org
     # - logo: https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo.png
-    - logo: https://www.unito.it/sites/all/themes/bsunito/img/logo_new_2022.svg)
+    - logo: https://www.unito.it/sites/all/themes/bsunito/img/logo_new_2022.svg
     - contact_url: ""
 
 imprint:
