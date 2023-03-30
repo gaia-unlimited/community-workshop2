@@ -6,11 +6,11 @@ title: Participants
 ---
 
 
-<i class="fa-solid fa-people-group"></i> The registration is **open**. Registration form: XXX
+## <i class="fa-solid fa-people-group"></i> The registration is **not yet opened**. Registration form: XXX
 
 <i class="fa-solid fa-envelope-open-text"></i> Participants notified on **XXXX**.
 
-## <i class="fa-solid fa-circle-check"></i> Participation confirmation by **XXX**.
+<i class="fa-solid fa-circle-check"></i> Participation confirmation by **XXX**.
 
 
 _We will later list here the participants of the workshop, and we will add a group picture._
