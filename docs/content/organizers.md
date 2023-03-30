@@ -19,14 +19,13 @@ title: Organizers
 * Hans-Walter Rix (MPIA Heidelberg)
 * Morgan Fouesneau (MPIA Heidelberg)
 * Ron Drimmel (INAF-Torino)
-* Semyeong Oh (IoA Cambridge)
 * Shourya Khanna (INAF-Torino)
 * Tristan Cantat-Gaudin (MPIA Heidelberg)
 * Vasily Belokurov (IoA Cambridge)
 * Zuzanna Kostrzewa-Rutkowska (Leiden)
 
 
-<a href="https://gaiaunlimited-events.slack.com" aria-label=envelope>
+<a href="https://github.com/gaia-unlimited/community-workshop2/discussions" aria-label=envelope>
 <i class="fa-brands fa-slack" style="font-size:36px;"></i>
 </a>
 <a href="https://github.com/gaia-unlimited" aria-label=envelope>
