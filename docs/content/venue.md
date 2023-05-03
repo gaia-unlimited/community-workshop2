@@ -14,10 +14,10 @@ Info to be added.
 
 Don't hesitate to contact us if you need any assistance or have any questions.
 
-<img src="static/img/turin.jpg" alt="venue" width=360px style="float: right;">
+<!-- <img src="static/img/turin.jpg" alt="venue" width=360px style="float: right;"> -->
 
 ## Address
 
 TBD
 
-[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/wYwDdjmAgxPbdRwK6)
+[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>]()
