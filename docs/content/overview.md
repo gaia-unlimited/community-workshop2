@@ -8,7 +8,7 @@ The workshop's theme is the Gaia selection function and how to use it. This even
 
 > **New in this workshop:** Selection function tools for subsamples of the Gaia data and for combinations of Gaia with other photometric and spectroscopic surveys.
 
----
+***
 
 [<img width="100px" src="https://gaia-unlimited.org/wp-content/uploads/2021/06/EU-Logo_400x267.png" style="float:left;margin-right:1rem;">](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)
 _This workshop is partially funded by the European Union’s Horizon 2020 research and innovation program under grant agreement No 101004110._
