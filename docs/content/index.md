@@ -11,7 +11,7 @@ event:
 organizers:
     - name: The Gaia Unlimited Team
     - url: https://gaia-unlimited.org
-    - logo: https://github.com/gaia-unlimited/doc-templates/blob/main/Logo/gaia_unlimited_logo_notext.png
+    - logo: https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo_github.png
     - contact_url: ""
 
 imprint:
