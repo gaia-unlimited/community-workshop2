@@ -5,8 +5,8 @@ type: index
 event:
     - title: GaiaUnlimited Community Workshop 2
     - subtitle: The Gaia selection function and how to use the GaiaUnlimited tools
-    - date: 4-6 October 2023
-    - venue: University of Turin, Turin, Italy
+    - date: 4&ndash;6 October 2023
+    - venue: Osservatorio Astrofisico di Torino, Turin, Italy
 
 organizers:
     - name: The Gaia Unlimited Team

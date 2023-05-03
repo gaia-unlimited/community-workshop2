@@ -12,6 +12,7 @@ Participants are responsible for organizing their travel to Turin and should mak
 ## <i class="fa-solid fa-coins"></i> Financial
 
 ...
+
 ## <i class="fa-solid fa-baby"></i> Childcare
 
 If you need help with childcare arrangements, don't hesitate to contact us.
@@ -35,15 +36,7 @@ The [Web Accessibility Initiative](https://www.w3.org/WAI/teach-advocate/accessi
 
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
-Participants are responsible for making their own accommodation arrangements. Turino does not have large hotels near the meeting venue, but there are several hotels near Piazza Vittorio, which is about a 15 min walk from the Campus Luigi Einaudi where we have our workshop. In this area you can also find many restaurants, pubs and places of interest. The following hotels are some suggestions (but we don't endorse any particular hotel).
-
-* [Hotel Des Artistes](http://www.desartisteshotel.it/eng/hotel.html)
-* [Hotel Amadeus](http://www.hotelamadeustorino.com/)
-* [Hotel Alba](http://www.albergoalba.it/)
-* [Hotel Alpi Resort](http://www.hotelalpiresort.it/eng/hotelalpiresort.php)
-* [Le Petit Hotel](http://www.lepetithotel.it/eng/index.php)
-* [Hotel Dogana Vecchia](http://www.hoteldoganavecchia.com/en/index.html)
-* [NH Torino Santo Stefano](http://www.nh-hotels.com/nh/en/hotels/italy/turin/nh-torino-santo-stefano.html?nhagentid=10166&nhsubagentid=101660000000&oodc=84_50714&source=adwords&gclid=CjwKEAjwwJmhBRC56KOelNOXhxUSJAB_w2uNrsDOPwP0R_ShL0RjLxgr5cCSLmBEg_BrryaoLs9ORBoCcE_w_wcB)
+Participants are responsible for making their own accommodation arrangements. More details will follow soon.
 
 _don't hesitate to contact us if you have any questions_.
 
