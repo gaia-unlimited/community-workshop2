@@ -15,11 +15,11 @@ organizers:
     - contact_url: ""
 
 imprint:
-    - url:
+    - url: placeholder
     - name: imprint
 
 privacy-policy:
-    - url:
+    - url: placeholder
     - name: privacy policy
 
 content:
