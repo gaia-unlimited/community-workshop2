@@ -34,6 +34,8 @@ Some of us might not be able to see well, hear well, move well, speak well, or u
 Everyone at the event will be open to diversity in the audience and any accessibility issues.
 The [Web Accessibility Initiative](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) provides some information & directions.
 
+## <i class="fa-solid fa-bed"></i> Covid-19 measures
+Please read the [safety measures and guidelines](static/docs/CovidmeasuresWS2.pdf) for this workshop.
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
 Participants are responsible for making their own accommodation arrangements. More details will follow soon.
