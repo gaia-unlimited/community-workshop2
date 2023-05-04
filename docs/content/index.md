@@ -15,11 +15,11 @@ organizers:
     - contact_url: ""
 
 imprint:
-    - url: http://www.mpia.de/imprint
+    - url:
     - name: imprint
 
 privacy-policy:
-    - url: http://www.mpia.de/privacy-policy
+    - url:
     - name: privacy policy
 
 content:
