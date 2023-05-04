@@ -35,7 +35,7 @@ Everyone at the event will be open to diversity in the audience and any accessib
 The [Web Accessibility Initiative](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) provides some information & directions.
 
 ## <i class="fa-solid fa-bed"></i> Covid-19 measures
-Please read the [safety measures and guidelines](docs/static/docs/CovidmeasuresWS2.pdf) for this workshop.
+Please read the [safety measures and guidelines](https://docs.google.com/document/d/1p1lkY8kArtnSZjij1QTU1c6mggulZPf8h-TEnVDxnuw/edit?usp=sharing) for this workshop.
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
 Participants are responsible for making their own accommodation arrangements. More details will follow soon.
