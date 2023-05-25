@@ -5,12 +5,11 @@ active: true
 title: Venue
 ---
 
-
-The venue is still being selected. The information will be added as soon as possible..
+The workshop will take place at the [Istituto Nazionale di Ricerca Metrologica (INRiM) &mdash; Laboratorio Alte Tensioni e Forti Correnti.](https://www.inrim.it/it/ricerca/settori-scientifici/misure-elettriche-ed-elettroniche/laboratorio-alte-tensioni-e-forti)
 
 ## Accessibility
 
-Info to be added.
+The INRiM is close to the physics department of the University of Turin, on the edge of the Parco del Valentino on the Po river. It is within easy reach by public transport from the main train stations in Turin.
 
 Don't hesitate to contact us if you need any assistance or have any questions.
 
@@ -18,6 +17,10 @@ Don't hesitate to contact us if you need any assistance or have any questions.
 
 ## Address
 
-TBD
+Istituto Nazionale di Ricerca Metrologica
 
-[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>]()
+Corso Massimo D'Azeglio 42
+
+Turin, Italy
+
+[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/7urThBnMmY9P2PKs7)
