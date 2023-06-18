@@ -20,7 +20,7 @@ program:
     - day: Wednesday
       time: 09:10 - 10:40
       title: Pitch cards
-      description: Individual one slide introductions [slide deck]()
+      description: Individual one-slide introductions [slide deck]()
 
       highlight: true
     - day: Wednesday
@@ -221,7 +221,7 @@ program:
       title: G-U feedback and Gaia SF perspective
       highlight: true
       description: |2-
-        [GaiaUnlimited: feedback and perspectives](https://docs.google.com/presentation/d/1mtP8S2AquQ2zXBuNuPpDGa1gDliTjQ9aB6Jexiqq7-Q/edit?usp=sharing), by Anthony Brown
+        [GaiaUnlimited: feedback and perspectives](), by Anthony Brown
 
     - day: Friday
       title: Conference closed
