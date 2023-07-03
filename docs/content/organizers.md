@@ -24,7 +24,6 @@ title: Organizers
 * Vasily Belokurov (IoA Cambridge)
 * Evgeny Kurbatov (IoA Cambridge)
 
-
 <a href="https://github.com/gaia-unlimited/community-workshop2/discussions" aria-label=envelope>
 <i class="fa-brands fa-slack" style="font-size:36px;"></i>
 </a>
