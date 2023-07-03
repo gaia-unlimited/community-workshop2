@@ -22,6 +22,7 @@ title: Organizers
 * Shourya Khanna (INAF-Torino)
 * Tristan Cantat-Gaudin (MPIA Heidelberg)
 * Vasily Belokurov (IoA Cambridge)
+* Evgeny Kurbatov (IoA Cambridge)
 
 
 <a href="https://github.com/gaia-unlimited/community-workshop2/discussions" aria-label=envelope>
