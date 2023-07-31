@@ -11,7 +11,7 @@ Participants are responsible for organizing their travel to Turin and should mak
 
 ## <i class="fa-solid fa-coins"></i> Financial
 
-...
+There is no conference fee. All events happening at the venue are covered, but we cannot offer travel or lodging support.
 
 ## <i class="fa-solid fa-baby"></i> Childcare
 
