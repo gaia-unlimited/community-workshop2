@@ -23,7 +23,7 @@ If you need help with childcare arrangements, don't hesitate to contact us.
 
 ## <i class="fa-solid fa-champagne-glasses"></i> Workshop dinner
 
-...
+Thursday evening (day 2) of the workshop we will have a social dinner. The venue is [Le Putrelle](https://www.leputrelle.it/) and they have prepared a menu that will cost 37€ per person, drinks included.  Payment can be by card or cash, and a receipt will be provided for reimbursement purposes. If you are travelling with others, they are welcome, but we will need to know ahead of time.  In order to let the restaurant know exactly how many we will be, we ask that you confirm your participation (or not) by filling out this [Google form](https://forms.gle/rDV9YuX4kDeRo9tq8) by September 22.
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
