@@ -5,7 +5,7 @@ active: true
 title: Venue
 ---
 
-The workshop will take place at the [Istituto Nazionale di Ricerca Metrologica (INRiM) &mdash; Laboratorio Alte Tensioni e Forti Correnti.](https://www.inrim.it/en/research/scientific-sectors/electrical-and-electronic-measurements/laboratories-and-activities/high)
+The workshop will take place at the [Istituto Nazionale di Ricerca Metrologica (INRiM) &mdash; Laboratorio Alte Tensioni e Forti Correnti.](https://www.inrim.it/en/research/scientific-sectors/electrical-and-electronic-measurements/laboratories-and-activities/high) [<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/7urThBnMmY9P2PKs7)
 
 ## Access
 
