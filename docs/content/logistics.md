@@ -38,7 +38,9 @@ The [Web Accessibility Initiative](https://www.w3.org/WAI/teach-advocate/accessi
 Please read the [safety measures and guidelines](https://docs.google.com/document/d/1p1lkY8kArtnSZjij1QTU1c6mggulZPf8h-TEnVDxnuw/edit?usp=sharing) for this workshop.
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
-Participants are responsible for making their own accommodation arrangements. More details will follow soon.
+Participants are responsible for making their own accommodation arrangements.
+
+The venue is pretty much in the city center. There is a large number of lodging options within 20-30 min of walking distance. We do not have specific recommendations, you can use your favorite search engine to find a place.
 
 _don't hesitate to contact us if you have any questions_.
 
