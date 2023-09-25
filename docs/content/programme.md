@@ -154,20 +154,8 @@ program:
       highlight: true
 
     - day: Thursday
-      title: Dinner at TBD
-      # time: 18:00 - 19:30
-      highlight: true
-
-    - day: Thursday
-      time: 19:00 - 19:30
-      title: Wrap-up
-      description: |2-
-        Reports on the unconference sessions. Sharing results and feedback.
-      highlight: true
-
-    - day: Thursday
-      time: 19:30 - 20:00
-      title: Outlook for day 3
+      title: Dinner at Le Putrelle
+      # time: 20:00
       highlight: true
 # ----------------------------------------------------------------
     - day: Friday

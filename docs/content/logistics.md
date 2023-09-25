@@ -23,7 +23,9 @@ If you need help with childcare arrangements, don't hesitate to contact us.
 
 ## <i class="fa-solid fa-champagne-glasses"></i> Workshop dinner
 
-Thursday evening (day 2) of the workshop we will have a social dinner. The venue is [Le Putrelle](https://www.leputrelle.it/) and they have prepared a menu that will cost 37€ per person, drinks included.  Payment can be by card or cash, and a receipt will be provided for reimbursement purposes. If you are travelling with others, they are welcome, but we will need to know ahead of time.  In order to let the restaurant know exactly how many we will be, we ask that you confirm your participation (or not) by filling out this [Google form](https://forms.gle/rDV9YuX4kDeRo9tq8) by September 22.
+__Thursday evening (day 2)__ of the workshop we will have a social dinner. The venue is [Le Putrelle](https://www.leputrelle.it/) and they have prepared a menu that will cost 37€ per person, drinks included. Payment can be by card or cash, and a receipt will be provided for reimbursement purposes. If you are travelling with others, they are welcome, but we will need to know ahead of time.  In order to let the restaurant know exactly how many we will be, we ask that you confirm your participation (or not) by filling out this [Google form](https://forms.gle/rDV9YuX4kDeRo9tq8) by September 22.
+
+__Dinner starts at 20:00__
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
@@ -46,7 +48,7 @@ _don't hesitate to contact us if you have any questions_.
 
 ## <i class="fa-solid fa-comments"></i> Communications
 
-This workshop is an in-person event. In addition, we will use:
+This workshop is an in-person event with the option for remote participation. In addition, we will use:
 
 * <a href="https://github.com/gaia-unlimited/community-workshop2/discussions" aria-label=envelope> <i class="fa-brands fa-slack"></i> event discussion workspace</a>
 * <a href="https://github.com/gaia-unlimited" aria-label=envelope> <i class="fa-brands fa-github" ></i></i> GaiaUnlimited GitHub</a>.
