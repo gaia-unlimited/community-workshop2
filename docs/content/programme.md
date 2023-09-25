@@ -154,8 +154,8 @@ program:
       highlight: true
 
     - day: Thursday
+      time: 20:00
       title: Dinner at Le Putrelle
-      # time: 20:00
       highlight: true
 # ----------------------------------------------------------------
     - day: Friday
