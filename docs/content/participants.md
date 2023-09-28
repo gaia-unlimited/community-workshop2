@@ -5,7 +5,7 @@ active: true
 title: Participants
 ---
 
-<!-->
+<!--
 <i class="fa-solid fa-people-group"></i> The registration is **closed**.
 
 Please use the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSf-tN5Balv0ETyd0bDaqYze7tfC5v67MRsp7szo1qCi_22B9A/viewform?usp=sf_lnk). We estimate that it will take 15-30 minutes to complete. We aim to select a group of about 40 participants with a broad range of expertise and interests. We will also balance the distribution across geographical locations and career stages while including underrepresented groups.
@@ -20,7 +20,7 @@ _We will later list here the participants of the workshop, and we will add a gro
 
 <i class="fa-solid fa-circle-check"></i> The registration is **closed**.
 
-<!-->
+<!--
 <div style="display:flex; justify-content: center; flex-wrap: wrap;">
 <img src="static/img/group.jpg" alt="group" width=90% style="float: right;">
 </div>-->
@@ -67,4 +67,3 @@ Taavet Kalda (Max Planck Institute for Astronomy)<br/>
 Tristan Cantat-Gaudin (Max Planck Institute for Astronomy)<br/>
 Zofia Kaczmarek (Max Planck Institute for Astronomy)<br/></div>
 </div>
--->
