@@ -5,7 +5,7 @@ active: true
 title: Participants
 ---
 
-
+<!-->
 <i class="fa-solid fa-people-group"></i> The registration is **closed**.
 
 Please use the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSf-tN5Balv0ETyd0bDaqYze7tfC5v67MRsp7szo1qCi_22B9A/viewform?usp=sf_lnk). We estimate that it will take 15-30 minutes to complete. We aim to select a group of about 40 participants with a broad range of expertise and interests. We will also balance the distribution across geographical locations and career stages while including underrepresented groups.
@@ -16,18 +16,14 @@ Please use the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSf-t
 
 
 _We will later list here the participants of the workshop, and we will add a group picture._
+-->
 
-<!--
 <i class="fa-solid fa-circle-check"></i> The registration is **closed**.
 
-<i class="fa-solid fa-file-shield"></i> Any provided personal data are processed in accordance with the Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-policy).
-
-<i class="fa-solid fa-coins"></i> There are no registration fees to participate to this workshop.
-
-
+<!-->
 <div style="display:flex; justify-content: center; flex-wrap: wrap;">
 <img src="static/img/group.jpg" alt="group" width=90% style="float: right;">
-</div>
+</div>-->
 
 <div style="font-size:30px; display:flex; justify-content: center;">
 <i class="fa-solid fa-people-group" style="margin-left: 15px;"></i>
@@ -35,55 +31,40 @@ _We will later list here the participants of the workshop, and we will add a gro
 
 <div style="display:flex; justify-content: center; flex-wrap: wrap;">
 <div class="col-md-6" align="right" style="margin: 10px;">
-Aarya Patil             (U. of Toronto) <br>
-Akash Vani	            (ARI-ZAH) <br>
-Alessandro Della Croce	(INAF / U. of Bologna) <br>
-Alessandro Mazzi	    (U. di Padova) <br>
-Alex Wallace	        (Monash U.) <br>
-Alfred Castro Ginard	(Leiden Observatory) <br>
-Aneesh Naik	            (U. of Nottingham) <br>
-Anthony Brown       	(Leiden U.) <br>
-Dana Kovaleva       	(Institute of Astronomy, Russian Academy of Sciences) <br>
-Eleonora Zari       	(MPIA) <br>
-Elmé Breedt	            (Institute of Astronomy, Cambridge) <br>
-Emily Hunt              (Landessternwarte, Heidelberg) <br>
-Eugene Vasiliev	        (Institute of Astronomy, Cambridge ) <br>
-Fredi Quispe Huaynasi	(Observatorio Nacional de Rio de Janeiro) <br>
-Friedrich Anders    	(ICCUB Barcelona) <br>
-Hai-Feng Wang 	        (Rome Fermi Center) <br>
-Hans-Walter Rix     	(MPIA) <br>
-Himanshu Verma	        (IIT Bombay) <br>
-Jairo Alzate	        (National Institute of Astrophysics, Optics and Electronics) <br>
-James Lane            (U. of Toronto) <br>
-Jason Sanders       	(U. College London) <br>
-Jiadong Li	            (NAOC - NYU) <br>
-John Mora	            (IUCAA) <br>
-Josefa Großschedl	    (U. of Vienna) <br>
+Adrian Price-Whelan	Flatiron Institute<br/>
+Alessandro Mazzi	Università di Bologna<br/>
+Alessandro Spagna	INAF-OATo<br/>
+Alex Golovin	Landessternwarte, Heidelberg University<br/>
+Alex Wallace	Monash University<br/>
+Alfred Castro Ginard	Leiden Observatory<br/>
+Anthony Brown	Leiden Observatory<br/>
+David W Hogg	New York University<br/>
+Diego Osvaldo Ochoa de la Cruz	IA-UNAM<br/>
+Dmitry Chulkov	INASAN, Moscow, Russia<br/>
+Eleonora Zari	MPIA<br/>
+Eloisa Poggio	Observatoire de la Côte d'Azur<br/>
+Erasmo Trentin	Leibniz Institut für Astrophysik Potsdam (AIP)<br/>
+Hai-Feng Wang 	Rome University and Fermi Centre<br/>
+John Mora	Inter-University Centre for Astronomy and Astrophysics (IUCAA)<br/>
+Madeline Lucey	University of Pennsylvania<br/>
 </div>
 <div class="col-md-6" align="left" style="margin: 10px;">
-K R Arjun 	            (Indian Institute of Science Education and Research) <br>
-Katia Kamura Mamani Burgos 	(National U. of Callao) <br>
-Kseniia Sysoliatina 	(ARI) <br>
-Laia Casamiquela	    (Observatoire de Paris) <br>
-Leigh Wojno	            (MPIA) <br>
-Lekshmi Thulasidharan	(U. of Wisconsin Madison) <br>
-Leo Girardi	            (INAF / Osservatorio Astronomico di Padova) <br>
-Morgan Fouesneau	    (MPIA) <br>
-Olcay Plevne	        (Istanbul U.) <br>
-Oleksiy Golubov	        (V. N. Karazin Kharkiv National U.) <br>
-Payel Das	            (U. of Surrey) <br>
-Priya Hasan             (Maulana Azad National Urdu U.) <br>
-Raj Kumar Pradhan	    (Tribhuvan U.) <br>
-Ronald Drimmel	        (INAF) <br>
-Sachin Venkatesh Thakku Saravana Kumar	(Delhi Technological U.) <br>
-Shourya Khanna	        (INAF) <br>
-Sill Verberne	        (Leiden Observatory) <br>
-Tommaso Marchetti	    (ESO Garching) <br>
-Tristan Cantat-Gaudin	(MPIA) <br>
-Verena Fürnkranz	    (MPIA) <br>
-Yanjun Guo	            (MPIA) <br>
-Zephyr Penoyre	        (Leiden U.) <br>
-Zuzanna Kostrzewa-Rutkowska	(Leiden U.) <br>
-</div>
+Marta González	Valencia International University (VIU)<br/>
+Mauricio Cruz Reyes	EPFL<br/>
+Morgan Fouesneau	MPIA<br/>
+Nestor Arsenov	Bulgarian Academy of Sciences, Institute of Astronomy<br/>
+Oren Ironi	Weizmann Institute of Science<br/>
+Paola Re Fiorentin	INAF - Osservatorio Astrofisico di Torino<br/>
+Richard D'Souza	Vatican Observatory<br/>
+Richard Smart	OATo INAF<br/>
+Ronald Drimmel	INAF - Osservatorio Astrofisico di Torino<br/>
+Sara Gelsumini	University of Bologna<br/>
+Sebastian Ratzenböck	University of Vienna, Department of Astrophysics<br/>
+Shanika Galaudage	Observatoire de la Côte d'Azur<br/>
+Shourya Khanna	INAF Torino<br/>
+Sill Verberne	Leiden Observatory<br/>
+Taavet Kalda	Max Planck Institute for Astronomy<br/>
+Tristan Cantat-Gaudin	MPIA<br/>
+Zofia Kaczmarek	Max Planck Institute for Astronomy<br/></div>
 </div>
 -->
