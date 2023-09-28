@@ -45,8 +45,4 @@ There are also bicycles and electric scooters scattered about that can be rented
 
 ## Getting to the venue
 
-TBW
-
-## <i class="fa-brands fa-wpexplorer"></i> Exploring Turin
-
-...
+See the "Venue" menu item.
