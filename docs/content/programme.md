@@ -97,7 +97,7 @@ program:
       description:
 
     - day: Thursday
-      time: 09:10 - 10:00
+      time: 10:00 - 10:30
       title: Hack time
       highlight: true
       description: |2-
