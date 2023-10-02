@@ -7,7 +7,7 @@ title: Programme
 program:
     - day: Wednesday
       time: 08:30 - 09:00
-      title: Participants arrival
+      title: Participants' arrival
       description: Registration, name tags, etc.
       highlight: true
 
@@ -20,7 +20,7 @@ program:
     - day: Wednesday
       time: 09:10 - 10:40
       title: Pitch cards
-      description: Individual one-slide introductions [slide deck]()
+      description: Individual one-slide introductions [slide deck](https://docs.google.com/presentation/d/1DMuGoX2aH8UmRljtFMGLIxDNfSxdNnoF6J4XYfX-qvI/edit?usp=sharing)
 
       highlight: true
     - day: Wednesday
