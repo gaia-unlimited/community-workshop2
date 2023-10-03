@@ -150,7 +150,7 @@ program:
       time: 17:30 - 18:00
       title: Wrap-up
       description: |2-
-        Reports on unconference sessions. Sharing results and feedback.
+        Reports on the unconference sessions. Sharing results and feedback.
       highlight: true
 
     - day: Thursday
@@ -164,7 +164,7 @@ program:
       highlight: true
 
     - day: Friday
-      time: 9:10 - 10:30
+      time: 09:10 - 10:30
       title: Unconference and Tutorials
       highlight: true
       description:
