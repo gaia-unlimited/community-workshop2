@@ -47,14 +47,15 @@ Erasmo Trentin (Leibniz Institut für Astrophysik Potsdam (AIP))<br/>
 Hai-Feng Wang  (Rome University and Fermi Centre)<br/>
 John Mora (Inter-University Centre for Astronomy and Astrophysics)<br/>
 Madeline Lucey (University of Pennsylvania)<br/>
+Marta González (Valencia International University)<br/>
 </div>
 <div class="col-md-6" align="left" style="margin: 10px;">
-Marta González (Valencia International University)<br/>
 Mauricio Cruz Reyes (EPFL)<br/>
 Morgan Fouesneau (Max Planck Institute for Astronomy)<br/>
 Nestor Arsenov (Bulgarian Academy of Sciences, Institute of Astronomy)<br/>
 Oren Ironi (Weizmann Institute of Science)<br/>
 Paola Re Fiorentin (INAF - Osservatorio Astrofisico di Torino)<br/>
+Payel Das (University of Surrey)<br/>
 Richard D'Souza (Vatican Observatory)<br/>
 Richard Smart (OATo INAF)<br/>
 Ronald Drimmel (INAF - Osservatorio Astrofisico di Torino)<br/>
