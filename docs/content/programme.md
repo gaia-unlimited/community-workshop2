@@ -67,22 +67,18 @@ program:
       highlight: true
 
     - day: Wednesday
-      time: 16:10 - 18:00
+      time: 16:10 - 17:00
       title: Unconference and Tutorials
       highlight: true
       description:
 
     - day: Wednesday
-      time: 18:00 - 18:30
+      time: 17:00 - 17:15
       title: Wrap-up
       description: |2-
         Reports on the unconference sessions. Sharing results and feedback.
       highlight: true
 
-    - day: Wednesday
-      title: Reception (at the workshop venue)
-      # time: 18:00 - 19:30
-      highlight: true
 # ----------------------------------------------------------------
     - day: Thursday
       time: 09:00 - 09:10
@@ -141,13 +137,13 @@ program:
       highlight: true
 
     - day: Thursday
-      time: 16:15 - 17:30
+      time: 16:15 - 17:15
       title: Unconference and Tutorials
       highlight: true
       description:
 
     - day: Thursday
-      time: 17:30 - 18:00
+      time: 17:15 - 17:30
       title: Wrap-up
       description: |2-
         Reports on the unconference sessions. Sharing results and feedback.
@@ -182,27 +178,22 @@ program:
       description:
 
     - day: Friday
-      time: 12:10 - 13:00
+      time: 12:10 - 13:30
       title: Lunch break
       highlight: true
       description:
 
     - day: Friday
-      time: 13:00 - 13:10
+      time: 13:30 - 13:40
       title: Final logistics
       highlight: true
       description: |2-
 
     - day: Friday
-      time: 13:00 - 14:20
+      time: 13:40 - 14:40
       title: Unconference and Tutorials
       highlight: true
       description:
-
-    - day: Friday
-      time: 14:20 - 14:40
-      title: final wrap-up
-      highlight: true
 
     - day: Friday
       time: 14:40 - 16:00
