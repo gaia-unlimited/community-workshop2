@@ -87,10 +87,17 @@ program:
       highlight: true
 
     - day: Thursday
-      time: 09:10 - 10:00
+      time: 09:10 - 09:50
       title: Session 3 - Contributed Talks
       highlight: true
       description:
+
+    - day: Thursday
+      time: 09:50 - 10:00
+      title: Daily unconference planning
+      highlight: true
+      description: |2-
+        Unconference topic selection and room allocation
 
     - day: Thursday
       time: 10:00 - 10:30
@@ -112,14 +119,7 @@ program:
       description:
 
     - day: Thursday
-      time: 12:00 - 12:10
-      title: Daily unconference planning
-      highlight: true
-      description: |2-
-        Unconference topic selection and room allocation
-
-    - day: Thursday
-      time: 12:10 - 13:30
+      time: 12:00 - 13:30
       title: Lunch break
       highlight: true
       description:
