@@ -178,7 +178,7 @@ program:
       description:
 
     - day: Friday
-      time: 12:10 - 13:30
+      time: 12:00 - 13:30
       title: Lunch break
       highlight: true
       description:
