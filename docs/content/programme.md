@@ -36,19 +36,13 @@ program:
       description:
 
     - day: Wednesday
-      time: 12:00 - 13:00
+      time: 12:00 - 13:30
       title: Lunch break
       highlight: true
       description:
 
     - day: Wednesday
-      time: 13:00 - 13:50
-      title: Session 2 - Use cases of Gaia SF and complications
-      highlight: true
-      description:
-
-    - day: Wednesday
-      time: 13:50 - 14:00
+      time: 13:40 - 13:50
       title: Daily Unconference Planning
       highlight: true
       description: Unconference topic selection and room allocation
@@ -58,7 +52,7 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        Tutorial on the GaiaUnlimited tools
+        Walk-through of GaiaUnlimited tools
 
     - day: Wednesday
       time: 15:50 - 16:10
@@ -70,7 +64,8 @@ program:
       time: 16:10 - 17:00
       title: Unconference and Tutorials
       highlight: true
-      description:
+      description: |2-
+        How to use the selection function in practice
 
     - day: Wednesday
       time: 17:00 - 17:15
