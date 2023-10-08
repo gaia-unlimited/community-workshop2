@@ -33,7 +33,10 @@ program:
       time: 11:00 - 12:00
       title: Session 1 - The Gaia selection function & GaiaUnlimited project
       highlight: true
-      description:
+      description: |2-
+        Gaia Unlimited Overview
+        An empirical calibration of the Gaia DR3 selection function
+        Selection Function for Gaia Subsamples
 
     - day: Wednesday
       time: 12:00 - 13:30
@@ -66,6 +69,8 @@ program:
       highlight: true
       description: |2-
         How to use the selection function in practice
+        Example of Gaia+APOGEE
+        Example of Red Clump stars
 
     - day: Wednesday
       time: 17:00 - 17:15
@@ -83,9 +88,11 @@ program:
 
     - day: Thursday
       time: 09:10 - 09:50
-      title: Session 3 - Contributed Talks
+      title: Session 2 - Selection functions of combined surveys
       highlight: true
-      description:
+      description: |2-
+        All-sky Red Clump Catalogue Galactic Structure & Selection Functions (Gaia + 2MASS example)
+        Combining Gaia and APOGEE
 
     - day: Thursday
       time: 09:50 - 10:00
@@ -96,10 +103,10 @@ program:
 
     - day: Thursday
       time: 10:00 - 10:30
-      title: Hack time
+      title: Unconference and Tutorials
       highlight: true
       description: |2-
-        Experiment various selection functions.
+        Working out a basic example and introduction to probabilistic graphical models
 
     - day: Thursday
       time: 10:30 - 11:00
@@ -108,19 +115,34 @@ program:
       highlight: true
 
     - day: Thursday
-      time: 11:00 - 12:00
-      title: Session 4 - Contributed Talks
+      time: 11:00 - 11:00
+      title: Unconference and Tutorials
       highlight: true
-      description:
+      description: |2-
+        Working out a basic example and introduction to probabilistic graphical models (continued)
 
     - day: Thursday
+      time: 11:30 - 12:00
+      title: Session 3 - Selection function for binary stars
+      highlight: true
+      description: |2-
+        Binary systems
+
+   - day: Thursday
       time: 12:00 - 13:30
       title: Lunch break
       highlight: true
       description:
 
     - day: Thursday
-      time: 13:30 - 15:45
+      time: 13:30 - 14:10
+      title: Session 4 - Contributed talks
+      highlight: true
+      description: |2-
+        Gaia subpopulation completes estimation with machine learning
+
+    - day: Thursday
+      time: 14:10 - 15:45
       title: Unconference and Tutorials
       highlight: true
       description:
@@ -132,13 +154,14 @@ program:
       highlight: true
 
     - day: Thursday
-      time: 16:15 - 17:15
-      title: Unconference and Tutorials
+      time: 16:15 - 17:00
+      title: Session 5 - Contributed talks
       highlight: true
-      description:
+      description: |2-
+        Discovering hypervelocity stars in surveys (and intro to simulating Gaia data)
 
     - day: Thursday
-      time: 17:15 - 17:30
+      time: 17:00 - 17:15
       title: Wrap-up
       description: |2-
         Reports on the unconference sessions. Sharing results and feedback.
