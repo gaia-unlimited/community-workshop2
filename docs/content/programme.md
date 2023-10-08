@@ -83,7 +83,6 @@ program:
     - day: Thursday
       time: 09:00 - 09:10
       title: boot-up
-      description: Welcome and opening remarks
       highlight: true
 
     - day: Thursday
@@ -171,6 +170,7 @@ program:
       time: 20:00 -
       title: Dinner at Le Putrelle
       highlight: true
+
 # ----------------------------------------------------------------
     - day: Friday
       time: 09:00 - 09:10
@@ -178,10 +178,26 @@ program:
       highlight: true
 
     - day: Friday
-      time: 09:10 - 10:30
+      time: 09:10 - 09:50
+      title: Session 6 - Contributed talks
+      highlight: true
+      description: |2-
+        Visual binary stars with known orbits in Gaia EDR3
+        Selection function for hot stars in the Milky Way disk
+
+    - day: Friday
+      time: 09:50 - 10:00
+      title: Daily unconference planning
+      highlight: true
+      description: |2-
+        Unconference topic selection and room allocation
+
+    - day: Friday
+      time: 10:00 - 10:30
       title: Unconference and Tutorials
       highlight: true
-      description:
+      description: |2-
+        XP selection function
 
     - day: Friday
       time: 10:30 - 11:00
@@ -191,9 +207,11 @@ program:
 
     - day: Friday
       time: 11:00 - 12:00
-      title: Session 5 - Contributed Talks
+      title: Unconference and Tutorials
       highlight: true
-      description:
+      description: |2-
+        Colour terms, i.e. the effects of dust
+        Selection function uncertainties
 
     - day: Friday
       time: 12:00 - 13:30
@@ -208,21 +226,21 @@ program:
       description: |2-
 
     - day: Friday
-      time: 13:40 - 14:40
+      time: 13:40 - 14:15
       title: Unconference and Tutorials
       highlight: true
       description:
 
     - day: Friday
-      time: 14:40 - 16:00
+      time: 14:15 - 15:00
       title: G-U feedback and Gaia SF perspective
       highlight: true
       description: |2-
-        [GaiaUnlimited: feedback and perspectives](), by Anthony Brown
+        [GaiaUnlimited: feedback and perspectives](https://docs.google.com/presentation/d/1LfolYKhNpoamnOsywGSAr1ubpAkt2hg8E9MQmFacOEs/edit?usp=sharing), by Anthony Brown
 
     - day: Friday
       title: Conference closed
-      time: 16:00 -
+      time: 15:00 -
 ---
 
 <i class="fa-regular fa-calendar" style="font-size:26px";></i> _The program is preliminary and will be updated soon._
