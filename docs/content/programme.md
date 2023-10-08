@@ -127,7 +127,7 @@ program:
       description: |2-
         Binary systems
 
-   - day: Thursday
+    - day: Thursday
       time: 12:00 - 13:30
       title: Lunch break
       highlight: true
