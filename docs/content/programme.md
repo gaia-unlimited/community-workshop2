@@ -198,6 +198,7 @@ program:
       highlight: true
       description: |2-
         XP selection function
+        Accounting for FoV pointing in M10 maps
 
     - day: Friday
       time: 10:30 - 11:00
