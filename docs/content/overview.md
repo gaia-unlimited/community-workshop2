@@ -11,4 +11,4 @@ The workshop's theme is the Gaia selection function and how to use it. This even
 ***
 
 [<img width="100px" src="https://gaia-unlimited.org/wp-content/uploads/2021/06/EU-Logo_400x267.png" style="float:left;margin-right:1rem;">](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)
-_This workshop is partially funded by the European Union’s Horizon 2020 research and innovation program under grant agreement No 101004110._
+_This workshop is part of the GaiaUnlimited project that has received funding from the  European Union’s Horizon 2020 research and innovation programme under grant agreement No 101004110._
