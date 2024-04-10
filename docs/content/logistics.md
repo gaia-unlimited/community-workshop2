@@ -5,7 +5,7 @@ active: true
 title: Logistics
 ---
 
-The workshop will start at 09:00 on Wednesday, October 4 2024, and finish at 16:00 on Friday, October 6 2024.
+The workshop will start at 09:00 on Wednesday, October 4 2023, and finish at 16:00 on Friday, October 6 2023.
 
 Participants are responsible for organizing their travel to Turin and should make their own accommodation arrangements (see below).
 
